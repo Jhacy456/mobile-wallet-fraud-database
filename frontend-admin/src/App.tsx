@@ -32,7 +32,7 @@ function App() {
         <Route path='/admin-list' element={<AdminList />} />
         <Route path='/new-admin-modal' element={<NewAdminModal />} />
         <Route path='/config' element={<ConfigPage />} />
-
+      
 
 
 
